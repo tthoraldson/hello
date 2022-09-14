@@ -13,7 +13,7 @@ function App() {
         <h1>Hello! It was nice to meet you.</h1>
         <h2>Theresa Thoraldson - Software Engineer</h2>
         <p>I'm currently a Senior Software Engineer at <a href='https://www.rhythmsystems.com/'>Rhythm Systems</a>. Previously a Software Engineering Manager at <a href='https://www.serko.com/'>Serko</a>. I have 5 years of professional software engineering experience.</p>
-        <p>I'm currently taking <a href="">Full Stack Deep Learning</a>, and will be working through other courses/projects to upskill in Machine Learning Engineering.</p>
+        <p>I'm currently taking <a href="https://https://fullstackdeeplearning.com/">Full Stack Deep Learning</a>, and will be working through other courses/projects to upskill in Machine Learning Engineering.</p>
         <p>I'm studying for a BSc in Computer Science from the <a href="https://www.london.ac.uk/">University of London</a> (2024 est).</p>
         <p>Have a look at my <a href='https://github.com/tthoraldson/resume/blob/master/TheresaThoraldson_CV.pdf'>resume</a> if you'd like to know more.</p>
         <h2>Let's keep in touch.</h2>
